@@ -1,0 +1,319 @@
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\CourseApplication.dll.config
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\CourseApplication.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\CourseApplication.pdb
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\csc.exe
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\csc.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\csc.rsp
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\csi.exe
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\csi.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\csi.rsp
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Console.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\vbc.exe
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\vbc.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\vbc.rsp
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Antlr3.Runtime.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\EntityFramework.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Newtonsoft.Json.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Owin.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.Helpers.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.Mvc.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.Optimization.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.Razor.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.WebPages.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\WebGrease.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.Helpers.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.Mvc.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.Optimization.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.Razor.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.WebPages.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Newtonsoft.Json.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\EntityFramework.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\obj\Debug\CourseApplication.csproj.CoreCompileInputs.cache
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\obj\Debug\CourseApplication.csproj.CopyComplete
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\obj\Debug\CourseApplication.dll
+C:\Users\Yang yang\source\repos\CourseApplication\CourseApplication\obj\Debug\CourseApplication.pdb
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\CourseApplication.dll.config
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\CourseApplication.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\CourseApplication.pdb
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\csc.exe
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\csc.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\csc.rsp
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\csi.exe
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\csi.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\csi.rsp
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Console.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\vbc.exe
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\vbc.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\vbc.rsp
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Antlr3.Runtime.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\EntityFramework.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Newtonsoft.Json.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Owin.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.Helpers.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.Mvc.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.Optimization.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.Razor.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.WebPages.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\WebGrease.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.Helpers.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.Mvc.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.Optimization.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.Razor.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.WebPages.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Newtonsoft.Json.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\EntityFramework.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\obj\Debug\CourseApplication.csproj.CoreCompileInputs.cache
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\obj\Debug\CourseApplication.csproj.CopyComplete
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\obj\Debug\CourseApplication.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy - Copy\CourseApplication\obj\Debug\CourseApplication.pdb
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\CourseApplication.dll.config
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\CourseApplication.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\CourseApplication.pdb
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\csc.exe
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\csc.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\csc.rsp
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\csi.exe
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\csi.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\csi.rsp
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Console.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\vbc.exe
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\vbc.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\vbc.rsp
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Antlr3.Runtime.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\EntityFramework.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Newtonsoft.Json.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Owin.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Rotativa.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.Helpers.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.Mvc.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.Optimization.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.Razor.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.WebPages.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\WebGrease.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.Helpers.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.Mvc.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.Optimization.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.Razor.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.WebPages.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Newtonsoft.Json.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\EntityFramework.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\obj\Debug\CourseApplication.csproj.CoreCompileInputs.cache
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\obj\Debug\CourseApplication.csproj.CopyComplete
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\obj\Debug\CourseApplication.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\obj\Debug\CourseApplication.pdb
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Yang yang\source\repos\CourseApplication - Copy\CourseApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
